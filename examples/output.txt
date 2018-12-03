@@ -1,0 +1,186 @@
+Load conv1_7x7_s2 weights!
+Load conv1_7x7_s2 biases!
+Load conv2_3x3_reduce weights!
+Load conv2_3x3_reduce biases!
+Load conv2_3x3 weights!
+Load conv2_3x3 biases!
+Load inception_3a_1x1 weights!
+Load inception_3a_1x1 biases!
+Load inception_3a_3x3_reduce weights!
+Load inception_3a_3x3_reduce biases!
+Load inception_3a_3x3 weights!
+Load inception_3a_3x3 biases!
+Load inception_3a_5x5_reduce weights!
+Load inception_3a_5x5_reduce biases!
+Load inception_3a_5x5 weights!
+Load inception_3a_5x5 biases!
+Load inception_3a_pool_proj weights!
+Load inception_3a_pool_proj biases!
+Load inception_3b_1x1 weights!
+Load inception_3b_1x1 biases!
+Load inception_3b_3x3_reduce weights!
+Load inception_3b_3x3_reduce biases!
+Load inception_3b_3x3 weights!
+Load inception_3b_3x3 biases!
+Load inception_3b_5x5_reduce weights!
+Load inception_3b_5x5_reduce biases!
+Load inception_3b_5x5 weights!
+Load inception_3b_5x5 biases!
+Load inception_3b_pool_proj weights!
+Load inception_3b_pool_proj biases!
+Load inception_4a_1x1 weights!
+Load inception_4a_1x1 biases!
+Load inception_4a_3x3_reduce weights!
+Load inception_4a_3x3_reduce biases!
+Load inception_4a_3x3 weights!
+Load inception_4a_3x3 biases!
+Load inception_4a_5x5_reduce weights!
+Load inception_4a_5x5_reduce biases!
+Load inception_4a_5x5 weights!
+Load inception_4a_5x5 biases!
+Load inception_4a_pool_proj weights!
+Load inception_4a_pool_proj biases!
+Load inception_4b_1x1 weights!
+Load inception_4b_1x1 biases!
+Load inception_4b_3x3_reduce weights!
+Load inception_4b_3x3_reduce biases!
+Load inception_4b_3x3 weights!
+Load inception_4b_3x3 biases!
+Load inception_4b_5x5_reduce weights!
+Load inception_4b_5x5_reduce biases!
+Load inception_4b_5x5 weights!
+Load inception_4b_5x5 biases!
+Load inception_4b_pool_proj weights!
+Load inception_4b_pool_proj biases!
+Load inception_4c_1x1 weights!
+Load inception_4c_1x1 biases!
+Load inception_4c_3x3_reduce weights!
+Load inception_4c_3x3_reduce biases!
+Load inception_4c_3x3 weights!
+Load inception_4c_3x3 biases!
+Load inception_4c_5x5_reduce weights!
+Load inception_4c_5x5_reduce biases!
+Load inception_4c_5x5 weights!
+Load inception_4c_5x5 biases!
+Load inception_4c_pool_proj weights!
+Load inception_4c_pool_proj biases!
+Load inception_4d_1x1 weights!
+Load inception_4d_1x1 biases!
+Load inception_4d_3x3_reduce weights!
+Load inception_4d_3x3_reduce biases!
+Load inception_4d_3x3 weights!
+Load inception_4d_3x3 biases!
+Load inception_4d_5x5_reduce weights!
+Load inception_4d_5x5_reduce biases!
+Load inception_4d_5x5 weights!
+Load inception_4d_5x5 biases!
+Load inception_4d_pool_proj weights!
+Load inception_4d_pool_proj biases!
+Load inception_4e_1x1 weights!
+Load inception_4e_1x1 biases!
+Load inception_4e_3x3_reduce weights!
+Load inception_4e_3x3_reduce biases!
+Load inception_4e_3x3 weights!
+Load inception_4e_3x3 biases!
+Load inception_4e_5x5_reduce weights!
+Load inception_4e_5x5_reduce biases!
+Load inception_4e_5x5 weights!
+Load inception_4e_5x5 biases!
+Load inception_4e_pool_proj weights!
+Load inception_4e_pool_proj biases!
+Load inception_5a_1x1 weights!
+Load inception_5a_1x1 biases!
+Load inception_5a_3x3_reduce weights!
+Load inception_5a_3x3_reduce biases!
+Load inception_5a_3x3 weights!
+Load inception_5a_3x3 biases!
+Load inception_5a_5x5_reduce weights!
+Load inception_5a_5x5_reduce biases!
+Load inception_5a_5x5 weights!
+Load inception_5a_5x5 biases!
+Load inception_5a_pool_proj weights!
+Load inception_5a_pool_proj biases!
+Load inception_5b_1x1 weights!
+Load inception_5b_1x1 biases!
+Load inception_5b_3x3_reduce weights!
+Load inception_5b_3x3_reduce biases!
+Load inception_5b_3x3 weights!
+Load inception_5b_3x3 biases!
+Load inception_5b_5x5_reduce weights!
+Load inception_5b_5x5_reduce biases!
+Load inception_5b_5x5 weights!
+Load inception_5b_5x5 biases!
+Load inception_5b_pool_proj weights!
+Load inception_5b_pool_proj biases!
+Load loss3_classifier weights!
+Load loss3_classifier biases!
+===============================
+[image]: ../data/000000000285.jpg
+1: probability: 1.00, label: brown bear, bruin, Ursus arctos
+2: probability: 0.00, label: ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus
+3: probability: 0.00, label: hyena, hyaena
+4: probability: 0.00, label: chow, chow chow
+5: probability: 0.00, label: American black bear, black bear, Ursus americanus, Euarctos americanus
+===============================
+[image]: ../data/000000000724.jpg
+1: probability: 0.79, label: street sign
+2: probability: 0.06, label: traffic light, traffic signal, stoplight
+3: probability: 0.03, label: parking meter
+4: probability: 0.02, label: mailbox, letter box
+5: probability: 0.01, label: balloon
+===============================
+[image]: ../data/000000001584.jpg
+1: probability: 0.94, label: trolleybus, trolley coach, trackless trolley
+2: probability: 0.05, label: passenger car, coach, carriage
+3: probability: 0.00, label: fire engine, fire truck
+4: probability: 0.00, label: streetcar, tram, tramcar, trolley, trolley car
+5: probability: 0.00, label: minibus
+===============================
+[image]: ../data/000000003845.jpg
+1: probability: 0.35, label: burrito
+2: probability: 0.17, label: potpie
+3: probability: 0.14, label: mashed potato
+4: probability: 0.10, label: plate
+5: probability: 0.03, label: pizza, pizza pie
+===============================
+[image]: ../data/000000032081.jpg
+1: probability: 0.97, label: racket, racquet
+2: probability: 0.01, label: tennis ball
+3: probability: 0.01, label: ballplayer, baseball player
+4: probability: 0.00, label: volleyball
+5: probability: 0.00, label: baseball
+===============================
+[image]: ../data/ILSVRC2017_test_00000004.jpg
+1: probability: 1.00, label: goldfish, Carassius auratus
+2: probability: 0.00, label: rock beauty, Holocanthus tricolor
+3: probability: 0.00, label: puffer, pufferfish, blowfish, globefish
+4: probability: 0.00, label: anemone fish
+5: probability: 0.00, label: tench, Tinca tinca
+===============================
+[image]: ../data/ILSVRC2017_test_00000005.jpg
+1: probability: 0.58, label: snowplow, snowplough
+2: probability: 0.08, label: tractor
+3: probability: 0.06, label: trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi
+4: probability: 0.03, label: harvester, reaper
+5: probability: 0.03, label: garbage truck, dustcart
+===============================
+[image]: ../data/ILSVRC2017_test_00000014.jpg
+1: probability: 1.00, label: lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens
+2: probability: 0.00, label: polecat, fitch, foulmart, foumart, Mustela putorius
+3: probability: 0.00, label: red fox, Vulpes vulpes
+4: probability: 0.00, label: weasel
+5: probability: 0.00, label: Pembroke, Pembroke Welsh corgi
+===============================
+[image]: ../data/IMG_4379.jpg
+1: probability: 0.32, label: Egyptian cat
+2: probability: 0.30, label: tabby, tabby cat
+3: probability: 0.05, label: tiger cat
+4: probability: 0.02, label: mouse, computer mouse
+5: probability: 0.02, label: paper towel
+===============================
+[image]: ../data/IMG_7940.jpg
+1: probability: 1.00, label: streetcar, tram, tramcar, trolley, trolley car
+2: probability: 0.00, label: passenger car, coach, carriage
+3: probability: 0.00, label: trolleybus, trolley coach, trackless trolley
+4: probability: 0.00, label: electric locomotive
+5: probability: 0.00, label: freight car
